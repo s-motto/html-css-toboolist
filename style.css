@@ -1,10 +1,42 @@
 * {
     background-color: #f6f8f9;
     margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 header {
     height: 60px;
     background-color: white;
     padding-top: 15px;
+}
+
+
+#fake-buttons {
+    margin-top: 45px;
+    margin-left: 290px;
+    margin-right: 290px;
+    height: 45px;
+    background-color: #ffff;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.fake {
+    text-align: center;
+    display: inline-block;
+    border: 1px solid #c4cbd0;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-size: 12px;
+    padding: 4px 8px;
+}
+
+.task {
+    background-color: #14aaf5;
+    margin-left: 50px;
+
+}
+
+.section {
+    background-color: white;
+    margin-left: 1px;
 }
